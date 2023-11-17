@@ -1,0 +1,45 @@
+.dashboard .container-fluid {
+  padding: 20px;
+  background-color: rgb(104, 106, 117);
+}
+.dashboard .navbar-brand {
+  font-size: 26px;
+  font-family: "Cambria";
+  color: aliceblue;
+}
+
+.Login_Form .h1 {
+  color: rgb(246, 211, 39);
+}
+.Login_Form h3 {
+  color: rgb(246, 211, 39);
+}
+.Login_Form label {
+  color: rgb(246, 211, 39);
+}
+
+.body_bg {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 768px) {
+  .Register_Link {
+    color: white;
+  }
+}
+
+.card-body {
+  margin-top: 30px;
+}
+
+.Search-label {
+  font-size: 60px;
+}
+
+.multi-columns {
+  -moz-column-count: 2;
+       column-count: 2;
+  -moz-column-gap: 20px;
+       column-gap: 20px;
+}/*# sourceMappingURL=style.css.map */
